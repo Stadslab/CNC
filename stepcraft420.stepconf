@@ -157,8 +157,8 @@
   <property name="xminlim" type="float" value="0.0"/>
   <property name="xpulleyden" type="float" value="1.0"/>
   <property name="xpulleynum" type="float" value="1.0"/>
-  <property name="xscale" type="float" value="100.0"/>
-  <property name="xsteprev" type="float" value="200.0"/>
+  <property name="xscale" type="float" value="200.0"/>
+  <property name="xsteprev" type="float" value="400.0"/>
   <property name="yhomepos" type="float" value="0.0"/>
   <property name="yhomesw" type="float" value="410.0"/>
   <property name="yhomevel" type="float" value="15.0"/>
@@ -185,6 +185,6 @@
   <property name="zminlim" type="float" value="-80.0"/>
   <property name="zpulleyden" type="float" value="1.0"/>
   <property name="zpulleynum" type="float" value="1.0"/>
-  <property name="zscale" type="float" value="100.0"/>
-  <property name="zsteprev" type="float" value="200.0"/>
+  <property name="zscale" type="float" value="200.0"/>
+  <property name="zsteprev" type="float" value="400.0"/>
 </stepconf>
